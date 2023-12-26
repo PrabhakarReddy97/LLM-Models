@@ -1,0 +1,3 @@
+Chat GPT API Key - "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"
+
+Google Gemini API Key - "AIzaSyBm7VeFkF0Al31O8_FJ1VDMkXrcT04LZ18"
